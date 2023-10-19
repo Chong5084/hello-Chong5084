@@ -1,6 +1,6 @@
 [project]
 name = "hello-Chong5084"
-version = "0.1.0"
+version = "0.2.0"
 description = "The python program I'm distributing for the first time"
 authors = [
     {name = "Chong5084", email = "dmschd9647@gmail.com"},
@@ -13,3 +13,4 @@ license = {text = "Chong5084"}
 [build-system]
 requires = ["pdm-backend"]
 build-backend = "pdm.backend"
+
